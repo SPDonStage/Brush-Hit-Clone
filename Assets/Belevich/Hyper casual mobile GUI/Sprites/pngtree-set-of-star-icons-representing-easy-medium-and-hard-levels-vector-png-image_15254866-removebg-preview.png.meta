@@ -1,0 +1,1096 @@
+fileFormatVersion: 2
+guid: 2f3a4cb9dd747894b99e1c3ce75eee86
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9850eb405534974280472143d94ff04
+      internalID: -1141853538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 266
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea78f2c8add349543a4c3b2295c28236
+      internalID: -1563692822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 265
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a350b3f138d7d6248b6171f266af45b2
+      internalID: -460922841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 265
+        width: 150
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653d38ca4bd121d4882407fcf9ccbf9f
+      internalID: 120895997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 265
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adda0e72a5edf445a6b7734147c7530
+      internalID: 1167496632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 265
+        width: 241
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3314416817b8f874589197f7c138cea4
+      internalID: 1021057587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511ee22f49fbe3d408cd1734e03c0ff0
+      internalID: -915763517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 258
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac84a3d36f231f46b242bc44b78a5e2
+      internalID: 683713831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 258
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a29df2579046c4f88a1411a8b855f1
+      internalID: -363615702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 258
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dedea9babbd394f808bbeeaad6f543
+      internalID: -903908430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 253
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c84f1d446105c4980a66f5279f1bfe
+      internalID: 1892635446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8934fc7038d55634ab92d0ef9bee7701
+      internalID: 149721656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 186
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f117b3f2fc46dd344a00db0693927f0a
+      internalID: 1097186769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 186
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1b184b81c63c6409bbaf24a639fc90
+      internalID: 997399746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 189
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6a2157f44e0e4479cbd20885b0fe4a
+      internalID: -972689576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 240
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be8076ac659e204c92616479706f0aa
+      internalID: 31158718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 180
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d1ae56d9024c04aae34da6c19873c0
+      internalID: 1097967649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 189
+        width: 85
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2696576a919751499644abd136c043f
+      internalID: 605340474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 187
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b29108c4a1b9a489f7f55a119b415d
+      internalID: -301543529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 182
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebb7763aee2b254eb0d223c40d41d57
+      internalID: -644525550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 186
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c0b67382aee29428cf61e4a6887959
+      internalID: 1741770227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 174
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd21f99b847ef64598a6b333a8bc53e
+      internalID: -289114974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 165
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0043a0117a817439727b6b705e1cd7
+      internalID: 1234855688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c1d09fb7588d84486eb6e75069ebda
+      internalID: -222726333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 96
+        width: 72
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a76f557f4cf784e93aaf4a1849cb16
+      internalID: -902502396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 180
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4e257e9c929394a8e61e606062189c
+      internalID: 1341776889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 180
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17840a04c603f0446b02739811f18f4b
+      internalID: -56531522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 179
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d326e4725365c4ca29de0721c1e86c
+      internalID: -1475236358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927ff677b79826549ae106f9f4bbc0f7
+      internalID: -1241805444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 168
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c130017450664cb4ca7fa28898b88e06
+      internalID: 1138570028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 93
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d1c1a527f880f4586d66ef106393bf
+      internalID: 1108841238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a54c48118601848b9db4c685ddb284
+      internalID: -1760409432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 96
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174de3562fd0522489c77941bd25c8db
+      internalID: -1422008956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 108
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b50b69c7dc7ba439b1ad89b95f2023
+      internalID: -277832644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f300dbd82575c4298f4285c05065c8
+      internalID: -550227063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 144
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094ac9034788fe44caab9c6ac39d28cb
+      internalID: 317591332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 84
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd8a35f75bedac40baa9fe504e5caf8
+      internalID: 1236801373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 84
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf52f6d7a3c55884c9732e575a5747b1
+      internalID: 2069885852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 84
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb76fbae8f240d409a1321570217df2
+      internalID: -156490618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 89
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dfad0969cf9334593ef3fb2d1ed54a
+      internalID: 680046518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 0
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bd52797f972a148adcdc7ad79c9211
+      internalID: 223055648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 88
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe5c56c2173e8d49bdec812194ef863
+      internalID: 1919472276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5c0704e1a6f2a48b3d540ad9016e01
+      internalID: 783000179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fd4b458f484944b971098514eb8aea
+      internalID: 1172063480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_0: -1141853538
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_1: -1563692822
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_10: -903908430
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_11: 1892635446
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_12: 149721656
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_13: 1097186769
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_14: 997399746
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_15: -972689576
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_16: 31158718
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_17: 1097967649
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_18: 605340474
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_19: -301543529
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_2: -460922841
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_20: -644525550
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_21: 1741770227
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_22: -289114974
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_23: 1234855688
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_24: -222726333
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_25: -902502396
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_26: 1341776889
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_27: -56531522
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_28: -1475236358
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_29: -1241805444
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_3: 120895997
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_30: 1138570028
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_31: 1108841238
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_32: -1760409432
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_33: -1422008956
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_34: -277832644
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_35: -550227063
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_36: 317591332
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_37: 1236801373
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_38: 2069885852
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_39: -156490618
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_4: 1167496632
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_40: 680046518
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_41: 223055648
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_42: 1919472276
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_43: 783000179
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_44: 1172063480
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_5: 1021057587
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_6: -915763517
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_7: -2029912682
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_8: 683713831
+      pngtree-set-of-star-icons-representing-easy-medium-and-hard-levels-vector-png-image_15254866-removebg-preview_9: -363615702
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
